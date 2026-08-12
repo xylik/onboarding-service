@@ -65,6 +65,10 @@ flowchart TB
     class PK vpn
 ```
 
+## Backend onboarding
+
+Start with [`docs/backend-onboarding-slice.md`](docs/backend-onboarding-slice.md) for a repository-specific guide to the main architecture decisions, Spring patterns, coding style, and one non-trivial backend slice end to end.
+
 ## Prerequisites
 
 - JDK 25
